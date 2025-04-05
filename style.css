@@ -1,4 +1,17 @@
-*body {
-    
+h1 {
+    color: blue;
+    font-size: 40px;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+
+}
+ul {
+    color: blue;
+
+}
+
+
+
 
 
